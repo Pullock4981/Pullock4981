@@ -2,7 +2,9 @@
 <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=150&lines=Pullock" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Pullock;Frontend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 </h1>
 
 <h3 align="center">MREN Stack Developer | Learner | Tech Enthusiast</h3>
