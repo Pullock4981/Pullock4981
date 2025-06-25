@@ -3,7 +3,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Pullock" alt="Typing SVG" />
+  <strong style="font-size: 28px;">Hi 👋, I'm</strong><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=250&lines=Syed Ashik Mahmud Pullock" alt="Typing SVG" />
 </p>
 
 <h3 align="center">MREN Stack Developer | Learner | Tech Enthusiast</h3>
