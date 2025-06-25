@@ -2,9 +2,9 @@
 <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
 
 
-<p align="center">
-  <strong style="font-size: 28px;">Hi 👋, I'm</strong><br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=250&lines=Pullock" alt="Typing SVG" />
+<p align="center" style="font-size: 28px;">
+  Hi 👋, I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=false&vCenter=true&width=200&lines=Pullock" alt="Typing SVG" style="vertical-align: middle;" />
 </p>
 
 <h3 align="center">MREN Stack Developer | Learner | Tech Enthusiast</h3>
