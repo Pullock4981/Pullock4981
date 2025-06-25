@@ -1,12 +1,15 @@
 <!-- Banner Image -->
 <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Pullock</h1>
-<h3 align="center">Frontend Developer | Learner | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4A90E2&center=true&vCenter=true&width=150&lines=Pullock" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">MREN Stack Developer | Learner | Tech Enthusiast</h3>
 
 <!-- Location and Email -->
 <p align="center">
-  📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 pullock4981@example.com
+  📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 ashikpullock99@gmail.com
 </p>
 
 ---
