@@ -97,10 +97,6 @@
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pullock4981&theme=github-dark" />
-
-<br />
-
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Pullock4981" alt="Trophies" />
 </a>
