@@ -87,15 +87,24 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pullock4981&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pullock4981&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pullock4981&theme=github-dark" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pullock4981" alt="Trophies" />
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pullock4981&show_icons=true&theme=github_dark" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pullock4981&layout=compact&theme=github_dark" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pullock4981&theme=github-dark" />
+
+<br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pullock4981" alt="Trophies" />
+</a>
+
 
 ---
 
