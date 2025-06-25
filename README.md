@@ -8,10 +8,9 @@
   📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 ashikpullock99@gmail.com
 </p>
 
+---
 <!-- Banner Image -->
 <img src="https://i.ibb.co/hJDpztRf/cover-me.jpg" alt="Banner" width="100%" />
-
----
 
 <h2>🧑‍💻 About Me</h2>
 <p>
