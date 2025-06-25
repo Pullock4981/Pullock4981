@@ -27,161 +27,63 @@
 
 ---
 
-<h2>⚙️ Skills & Technologies</h2>
+## ⚙️ Skills & Technologies
 
-<style>
-  .skills-section {
-    font-family: sans-serif;
-    line-height: 1.6;
-  }
+### 💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-  .skill-category {
-    margin-bottom: 20px;
-  }
+### 🎯 Expertise  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-  .skill-category h3 {
-    margin-bottom: 10px;
-    font-size: 18px;
-  }
+### 😌 Comfortable  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-9146FF?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-1B1F23?style=flat&logo=prisma&logoColor=white)
 
-  .badges {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-  }
+### 🧪 Familiar  
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-3498DB?style=flat)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat&logo=ant-design&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-000000?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-  .badge {
-    display: inline-block;
-    padding: 5px 12px;
-    font-size: 14px;
-    border-radius: 12px;
-    color: white;
-    font-weight: 500;
-  }
+### 🛠️ Tools  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat&logo=draw.io&logoColor=white)
+![Redux DevTools](https://img.shields.io/badge/Redux_DevTools-764ABC?style=flat&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-  /* Sample colors for each badge (you can customize or add more) */
-  .c { background-color: #00599C; }
-  .cpp { background-color: #004482; }
-  .java { background-color: #007396; }
-  .python { background-color: #3572A5; }
-  .js { background-color: #f7df1e; color: #000; }
-  .ts { background-color: #3178c6; }
-
-  .html { background-color: #e34c26; }
-  .css { background-color: #264de4; }
-  .tailwind { background-color: #06b6d4; }
-  .bootstrap { background-color: #7952b3; }
-  .react { background-color: #61dafb; color: #000; }
-  .redux { background-color: #764abc; }
-  .nextjs { background-color: #000; }
-
-  .node { background-color: #68a063; }
-  .express { background-color: #000; }
-  .mongodb { background-color: #4DB33D; }
-  .mysql { background-color: #00758f; }
-  .postgres { background-color: #336791; }
-  .restapi { background-color: #333; }
-  .jwt { background-color: #000; }
-  .axios { background-color: #9146FF; }
-  .prisma { background-color: #1B1F23; }
-
-  .tool { background-color: #444; }
-  .git { background-color: #F1502F; }
-  .testing { background-color: #000; }
-
-  .interpersonal {
-    background-color: #6c63ff;
-    font-size: 13px;
-    padding: 4px 10px;
-    border-radius: 16px;
-  }
-</style>
-
-<div class="skills-section">
-
-  <div class="skill-category">
-    <h3>Languages:</h3>
-    <div class="badges">
-      <div class="badge c">C</div>
-      <div class="badge cpp">C++</div>
-      <div class="badge java">Java</div>
-      <div class="badge python">Python</div>
-      <div class="badge js">JavaScript</div>
-      <div class="badge ts">TypeScript</div>
-    </div>
-  </div>
-
-  <div class="skill-category">
-    <h3>Expertise:</h3>
-    <div class="badges">
-      <div class="badge html">HTML5</div>
-      <div class="badge css">CSS3</div>
-      <div class="badge tailwind">Tailwind CSS</div>
-      <div class="badge bootstrap">Bootstrap</div>
-      <div class="badge react">React</div>
-      <div class="badge redux">Redux</div>
-      <div class="badge nextjs">Next.js</div>
-    </div>
-  </div>
-
-  <div class="skill-category">
-    <h3>Comfortable:</h3>
-    <div class="badges">
-      <div class="badge node">Node.js</div>
-      <div class="badge express">Express.js</div>
-      <div class="badge mongodb">MongoDB</div>
-      <div class="badge mysql">MySQL</div>
-      <div class="badge postgres">PostgreSQL</div>
-      <div class="badge restapi">REST API</div>
-      <div class="badge jwt">JWT</div>
-      <div class="badge axios">Axios</div>
-      <div class="badge prisma">Prisma</div>
-    </div>
-  </div>
-
-  <div class="skill-category">
-    <h3>Familiar:</h3>
-    <div class="badges">
-      <div class="badge redux">Redux Toolkit</div>
-      <div class="badge tailwind">RTK Query</div>
-      <div class="badge react">TanStack Query</div>
-      <div class="badge bootstrap">AntDesign</div>
-      <div class="badge js">GraphQL</div>
-      <div class="badge tailwind">Material UI</div>
-      <div class="badge testing">Testing</div>
-      <div class="badge git">Git</div>
-    </div>
-  </div>
-
-  <div class="skill-category">
-    <h3>Tools:</h3>
-    <div class="badges">
-      <div class="badge tool">VS Code</div>
-      <div class="badge tool">GitHub</div>
-      <div class="badge tool">Vercel</div>
-      <div class="badge tool">Netlify</div>
-      <div class="badge tool">Firebase</div>
-      <div class="badge tool">Draw.io</div>
-      <div class="badge redux">Redux DevTools</div>
-      <div class="badge tool">Vite</div>
-      <div class="badge git">Postman</div>
-    </div>
-  </div>
-
-  <div class="skill-category">
-    <h3>Interpersonal Skills:</h3>
-    <div class="badges">
-      <div class="badge interpersonal">Teamwork</div>
-      <div class="badge interpersonal">Problem Solving</div>
-      <div class="badge interpersonal">Decision Making</div>
-      <div class="badge interpersonal">Hardworking</div>
-      <div class="badge interpersonal">Communication</div>
-    </div>
-  </div>
-
-</div>
-
-
+### 🤝 Interpersonal Skills  
+![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=flat)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-F44336?style=flat)
+![Decision Making](https://img.shields.io/badge/Decision_Making-2196F3?style=flat)
+![Hardworking](https://img.shields.io/badge/Hardworking-FFC107?style=flat)
+![Communication](https://img.shields.io/badge/Communication-9C27B0?style=flat)
 
 
 ---
