@@ -100,19 +100,3 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Pullock4981" alt="Trophies" />
 </a>
-
-
----
-
-<h2>📌 Pinned Repositories</h2>
-<p>
-  <a href="https://github.com/Pullock4981/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pullock4981&repo=your-project-1&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Pullock4981/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pullock4981&repo=your-project-2&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Pullock4981/your-project-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pullock4981&repo=your-project-3&theme=github_dark" />
-  </a>
-</p>
