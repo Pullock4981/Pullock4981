@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-<img src="https://i.ibb.co/hJDpztRf/cover-me.jpg" alt="Banner" width="100%" />
-
 
 <h1 align="center">Hi 👋, I'm Syed Ashik Mahmud Pullock</h1>
 
@@ -10,6 +7,9 @@
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp;&nbsp; | &nbsp;&nbsp; 📧 ashikpullock99@gmail.com
 </p>
+
+<!-- Banner Image -->
+<img src="https://i.ibb.co/hJDpztRf/cover-me.jpg" alt="Banner" width="100%" />
 
 ---
 
