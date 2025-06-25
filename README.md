@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/hJDpztRf/cover-me.jpg" alt="Banner" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Syed Ashik Mahmud Pullock</h1>
