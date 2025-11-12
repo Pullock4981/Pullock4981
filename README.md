@@ -10,7 +10,7 @@
 
 ---
 <!-- Banner Image -->
-<img src="https://i.ibb.co/hJDpztRf/cover-me.jpg" alt="Banner" width="100%" />
+<img src="https://i.ibb.co.com/84S2tVYd/cover.jpg" alt="Banner" width="100%" />
 
 <h2>🧑‍💻 About Me</h2>
 <p>
